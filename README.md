@@ -1,1 +1,2 @@
-# tf
+# The playground for tensorflow
+## MNIST CNN
